@@ -1,0 +1,2 @@
+rootProject.name='Einzelbsp2'
+include ':app'
